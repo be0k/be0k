@@ -2,8 +2,8 @@
 # Info
 
 ### Hi! I'm Junyoung ☻
-
-
+<br>
+<br>
 <details>
   <summary><b>Where to find me</b></summary>
 

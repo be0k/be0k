@@ -23,7 +23,7 @@ Hi there, I'm student.
 
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![c](https://img.shields.io/badge/C-★★★-lightgrey?labelColor=A8B9CC&logo=C&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![c++](https://img.shields.io/badge/C++-★★★-lightgrey?labelColor=00599C&logo=CC%2B%2B&style=for-the-badge&logoColor=white)]([https://www.python.org/](https://en.wikipedia.org/wiki/C%2B%2B))
+[![c++](https://img.shields.io/badge/C++-★★★-lightgrey?labelColor=00599C&logo=C%2B%2B&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)

@@ -1,13 +1,7 @@
 
-## Info
+# Info
 
-Hi there, I'm student.
-
-- :computer: Major : AI
-- :school: School : Gachon Univ.
-
-</details>
-
+##Hi❕ I'm Junyoung☻
 
 <details>
   <summary><b>Where to find me</b></summary>

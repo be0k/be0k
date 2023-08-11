@@ -1,7 +1,7 @@
 
 # Info
 
-##Hi❕ I'm Junyoung☻
+## Hi❕ I'm Junyoung☻
 
 <details>
   <summary><b>Where to find me</b></summary>

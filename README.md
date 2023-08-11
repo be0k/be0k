@@ -1,7 +1,7 @@
 
 # Info
 
-<h3> Hi❕ I'm Junyoung☻ </h3>
+<h2> Hi! I'm Junyoung ☻ </h2>
 
 <details>
   <summary><b>Where to find me</b></summary>

@@ -1,10 +1,10 @@
 
-# Info
+<h1>Info</h1>
 
-### Hi! I'm Junyoung 🤗
+<h2>Hi! I'm Junyoung 🤗</h2>
 <br>
 <details>
-  <summary><b>Where to find me</b></summary>
+  <summary><h3><b>Where to find me</b></h3></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/be0k)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beok/)
@@ -13,7 +13,7 @@
 
 
 <details>
-  <summary><b>Skills</b></summary>
+  <summary><h3><b>Skills</b></h3></summary>
 
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![c](https://img.shields.io/badge/C-★★★-lightgrey?labelColor=A8B9CC&logo=C&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -27,7 +27,7 @@
 
 
 <details>
-  <summary><b>OS & Tools</b></summary>
+  <summary><h3><b>OS & Tools</b></h3></summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
@@ -41,7 +41,7 @@
 
 
 <details>
-  <summary><b>Stats</b></summary>
+  <summary><h3><b>Stats</b></h3></summary>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=be0k&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=be0k&no-bg=true&no-frame=true&column=4&theme=algolia)

@@ -1,6 +1,6 @@
 
 <h1>Info</h1>
-
+<img src="squirrel.jpg">
 <h3>Hi! I'm Junyoung 🤗</h3>
 <br>
 <details>

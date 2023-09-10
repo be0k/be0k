@@ -42,13 +42,18 @@
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=flat-square&logoColor=white)
 
 ![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)
-
 </details>
 
 
 <details>
   <summary><b>Studying 📚</b></summary>
-  
+
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)
+![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?logo=Transformers&style=flat-square&logoColor=white)
 
 
 </details>

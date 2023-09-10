@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/be0k)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beok/)
 
-I'm member of [![Take Out](https://img.shields.io/badge/-Take_Out?style=flat-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beok/)
+I'm member of [![Take Out](https://img.shields.io/badge/-Take_Out-yellow?style=flat-badge&logo=LinkedIn&logoColor=yellow)](https://www.linkedin.com/in/beok/)
 
 Self-Driving🚕 & Embedded System Development🔌 Club
 </details>

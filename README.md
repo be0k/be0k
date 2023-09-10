@@ -33,7 +33,8 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=flat-square&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-#E95420?logo=Ubuntu&style=flat-square&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)
+![Windows 10](https://img.shields.io/badge/-Windows_10-0078D6?logo=Windows_10&style=flat-square&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=white)
 

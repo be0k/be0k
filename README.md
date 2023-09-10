@@ -13,7 +13,7 @@
 
 
 <details>
-  <summary><b>Skills</b></summary>
+  <summary><b>Skills 🖥️</b></summary>
 
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![c](https://img.shields.io/badge/C-★★★-lightgrey?labelColor=A8B9CC&logo=C&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -27,7 +27,7 @@
 
 
 <details>
-  <summary><b>OS & Tools</b></summary>
+  <summary><b>OS & Tools 🔨</b></summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
@@ -39,6 +39,10 @@
 
 </details>
 
+
+<details>
+  <summary><b>Studying 📚</b></summary>
+</details>
 
 <details>
   <summary><b>Stats</b></summary>

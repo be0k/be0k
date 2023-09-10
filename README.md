@@ -30,12 +30,12 @@
   <summary><b>OS & Tools 🔨</b></summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
+![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=flat-square&logoColor=white)
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&style=for-the-badge&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&style=flat-square&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=flat-square&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=flat-square&logoColor=white)
 
 </details>
 

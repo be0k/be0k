@@ -55,7 +55,6 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&style=flat-square&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?logo=Transformers&style=flat-square&logoColor=white)
-> I think we can't always say "I know this tools well!".
 
 </details>
 

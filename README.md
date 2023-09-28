@@ -61,7 +61,7 @@
 <details>
   <summary><b>Stats</b></summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=be0k&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=be0k&show_icons=true&no-bg=true&no-frame=true&theme=merko)
 ![trophy](https://github-profile-trophy.vercel.app/?username=be0k&no-bg=true&no-frame=true&column=4&theme=algolia)
 
 </details>

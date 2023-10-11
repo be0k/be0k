@@ -52,8 +52,6 @@
 <details>
   <summary><b>Studying 📚</b></summary>
 
-![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&style=flat-square&logoColor=white)
 

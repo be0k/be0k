@@ -25,8 +25,6 @@
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)
-![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?logo=Transformers&style=flat-square&logoColor=white)
 </details>
 
 
@@ -44,6 +42,9 @@
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=flat-square&logoColor=white)
 
 ![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)
+![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?logo=Transformers&style=flat-square&logoColor=white)
 
 </details>
 

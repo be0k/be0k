@@ -4,7 +4,7 @@
 <h3>Hi! I'm Junyoung 🤗</h3>
 <br>
 
-<summary><h4>Where to find me</h4></summary>
+<summary><b>Where to find me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/be0k)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beok/)

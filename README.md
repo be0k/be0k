@@ -58,7 +58,7 @@
 
 
 
-<summary><b>Experices</b></summary>
+<summary><b>Experiences</b></summary>
 
 [2021.10]오픈 클라우드 플랫폼 파스타 기반 서비스 개발 및 아이디어 공모전 서비스 개발 부문 특별상 수상  
 [2022.07] 제6회 UNIST 슈퍼 컴퓨팅 캠프 대상 수상  

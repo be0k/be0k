@@ -5,6 +5,7 @@
 <br>
 
 <summary><b>Where to find me</b></summary>
+<hr>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/be0k)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beok/)
@@ -14,6 +15,7 @@
 
 
   <summary><b>Skills 🖥️</b></summary>
+<hr>
 
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![c](https://img.shields.io/badge/C-★★★-lightgrey?labelColor=A8B9CC&logo=C&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -28,6 +30,7 @@
 
 
 <summary><b>OS & Tools 🔨</b></summary>
+<hr>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=flat-square&logoColor=white)
@@ -46,12 +49,14 @@
 
 
 <summary><b>Studying 📚</b></summary>
+<hr>
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&style=flat-square&logoColor=white)
 
 
 <summary><b>Stats</b></summary>
+<hr>
 
 ![Junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=be0k&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=be0k&no-bg=true&no-frame=true&column=4&theme=algolia)
@@ -59,6 +64,7 @@
 
 
 <summary><b>Experiences</b></summary>
+<hr>
 
 [2021.10]오픈 클라우드 플랫폼 파스타 기반 서비스 개발 및 아이디어 공모전 서비스 개발 부문 특별상 수상  
 [2022.07] 제6회 UNIST 슈퍼 컴퓨팅 캠프 대상 수상  

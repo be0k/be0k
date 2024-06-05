@@ -38,12 +38,6 @@
 
 
 
-<summary><b>Studying 📚</b></summary>
-<hr>
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&style=flat-square&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&style=flat-square&logoColor=white)
-
 
 <summary><b>Stats</b></summary>
 <hr>

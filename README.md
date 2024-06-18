@@ -9,13 +9,11 @@
 
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![c](https://img.shields.io/badge/C-★★★-lightgrey?labelColor=A8B9CC&logo=C&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![c++](https://img.shields.io/badge/C++-★★★-lightgrey?labelColor=00599C&logo=C%2B%2B&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-
+[![c++](https://img.shields.io/badge/C++-★★★-lightgrey?labelColor=00599C&logo=C%2B%2B&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)   
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 [![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=61DBFB&logo=react&style=for-the-badge&logoColor=black)](https://react.dev/)
-
 
 
 
@@ -24,26 +22,13 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=flat-square&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)   
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=white)   
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=flat-square&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=flat-square&logoColor=white)
-
-![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)
-
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=flat-square&logoColor=white)   
+![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)   
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?logo=Transformers&style=flat-square&logoColor=white)
-
-
-
-
-<summary><b>Stats</b></summary>
-<hr>
-
-![Junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=be0k&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=be0k&no-bg=true&no-frame=true&column=4&theme=algolia)
 
 
 
@@ -59,6 +44,17 @@
 [2024.04] LG Aimers 4기 Offline Hackthon Private 34팀 중 5위  
 [2024.04] DACON 코드 유사성 판단 시즌2 AI 경진대회 133팀 중 2위 🏆  
 [2024.04] DACON 소득 예측 AI 해커톤 1180팀 중 3위 🏆  
+[2024.05] DACON 저해상도 조류 이미지 분류 AI 경진대회 385팀 중 7위   
+[2024.06] Kaggle BirdCLEF 2024 Top 10% 🥉   
+
+~ing
+
+SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문   
+ASVspoof 2023   
+Kaggle LMSYS - Chatbot Arena Human Preference Predictions   
+
+
+
 
 
 

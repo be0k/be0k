@@ -52,7 +52,7 @@
 SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문   
 ASVspoof 2023   
 Kaggle LMSYS - Chatbot Arena Human Preference Predictions   
-
+구글 머신러닝 부트캠프 2024
 
 
 

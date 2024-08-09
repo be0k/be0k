@@ -23,7 +23,6 @@
 
 ~ing
 
-ASVspoof 2023   
 Kaggle LMSYS - Chatbot Arena Human Preference Predictions (test data leakage로 마감 지연)     
 LG Aimers 5기 온라인해커톤     
 2024년 인공지능의 한국어 능력 평가 경진 대회      

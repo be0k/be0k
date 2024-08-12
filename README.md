@@ -17,13 +17,14 @@
 [2024.04] DACON 코드 유사성 판단 시즌2 AI 경진대회 133팀 중 2위 🏆  
 [2024.04] DACON 소득 예측 AI 해커톤 1180팀 중 3위 🏆  
 [2024.05] DACON 저해상도 조류 이미지 분류 AI 경진대회 385팀 중 7위   
-[2024.06] Kaggle BirdCLEF 2024 Top 10% 🥉   
+[2024.06] Kaggle BirdCLEF 2024 Top 6% 🥉   
 [2024.07] Intermediate 자율주행 모빌리티 레이스 1/5 부문 노력상 🏆  
-[2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루)🏆  
+[2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루)🏆    
+[2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉      
+[2024.08] Kaggle competitions Expert 🟣
 
 ~ing
 
-Kaggle LMSYS - Chatbot Arena Human Preference Predictions (test data leakage로 마감 지연)     
 LG Aimers 5기 온라인해커톤     
 2024년 인공지능의 한국어 능력 평가 경진 대회      
 구글 머신러닝 부트캠프 2024     

@@ -10,18 +10,17 @@
 [2021.10]오픈 클라우드 플랫폼 파스타 기반 서비스 개발 및 아이디어 공모전 서비스 개발 부문 특별상 수상 🏆  
 [2022.07] 제6회 UNIST 슈퍼 컴퓨팅 캠프 대상 수상 🏆  
 [2023.10] 2023 HL만도 HL클레무브 자율주행 모빌리티 대회 VLF 대학 부문 우수상 수상 🏆  
-[2023.10] 2023 데이터 크리에이터 캠프 본선 진출 및 우수성장상 수상 🏆  
+[2023.10] 2023 데이터 크리에이터 캠프 본선 진출 및 우수성장상 수상 🏆 [Github](https://github.com/be0k/2023-data-creator-camp)      
 [2023.10] 2023 국방 AI 경진대회 본선 진출 및 15팀 중 8위  
-[2024.02] LG Aimers 4기 Online Hackathon Private 844팀 중 1위 - 본선 진출  
-[2024.04] LG Aimers 4기 Offline Hackthon Private 34팀 중 5위  
-[2024.04] DACON 코드 유사성 판단 시즌2 AI 경진대회 133팀 중 2위 🏆  
-[2024.04] DACON 소득 예측 AI 해커톤 1180팀 중 3위 🏆  
-[2024.05] DACON 저해상도 조류 이미지 분류 AI 경진대회 385팀 중 7위   
-[2024.06] DACON 웹 광고 클릭률 예측 AI 경진대회 211팀 중 7위   
-[2024.06] Kaggle BirdCLEF 2024 Top 6% 🥉   
+[2024.02] LG Aimers 4기 Online Hackathon Private 844팀 중 1위 - 본선 진출 [Github](https://github.com/be0k/lg-aimers-4th-online)     
+[2024.04] LG Aimers 4기 Offline Hackthon Private 34팀 중 5위 [Github](https://github.com/be0k/lg-aimers-4th-offline)         
+[2024.04] DACON 코드 유사성 판단 시즌2 AI 경진대회 133팀 중 2위 🏆 [Github](https://github.com/be0k/code-similarity) [DACON](https://dacon.io/competitions/official/236228/codeshare/9926)              
+[2024.04] DACON 소득 예측 AI 해커톤 1180팀 중 3위 🏆 [DACON](https://dacon.io/competitions/open/236230/codeshare/9959)        
+[2024.05] DACON 저해상도 조류 이미지 분류 AI 경진대회 385팀 중 7위 [DACON](https://dacon.io/competitions/official/236251/codeshare/10441)        
+[2024.06] Kaggle BirdCLEF 2024 Top 6% 🥉      
 [2024.07] Intermediate 자율주행 모빌리티 레이스 1/5 부문 노력상 🏆  
-[2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루)🏆    
-[2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉      
+[2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루) 🏆 [Github](https://github.com/be0k/2024_AI_ADD/tree/main)     
+[2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉             
 [2024.08] Kaggle competitions Expert 🟣
 
 ~ing

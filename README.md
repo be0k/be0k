@@ -21,7 +21,7 @@
 [2024.07] Intermediate 자율주행 모빌리티 레이스 1/5 부문 노력상 🏆  
 [2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루) 🏆 [Github](https://github.com/be0k/2024_AI_ADD/tree/main)     
 [2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉             
-[2024.08] Kaggle competitions Expert 🟣
+[2024.08] Kaggle competitions Expert 🟣       
 [2024.08] LG Aimers 5기 온라인해커톤 Private 6th - 본선진출
 
 ~ing

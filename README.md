@@ -22,14 +22,15 @@
 [2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루) 🏆 [Github](https://github.com/be0k/2024_AI_ADD/tree/main)     
 [2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉             
 [2024.08] Kaggle competitions Expert 🟣
+[2024.08] LG Aimers 5기 온라인해커톤 Private 6th - 본선진출
 
 ~ing
 
-LG Aimers 5기 온라인해커톤     
+LG Aimers 5기 오프라인해커톤    
 2024년 인공지능의 한국어 능력 평가 경진 대회      
 구글 머신러닝 부트캠프 2024     
-2024 대학생 창작 모빌리티 경진대회
-
+2024 대학생 창작 모빌리티 경진대회     
+Kaggle UM - Game-Playing Strength of MCTS Variants
 
 
   <summary><b>Skills 🖥️</b></summary>

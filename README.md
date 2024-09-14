@@ -18,13 +18,14 @@
 [2024.04] DACON 소득 예측 AI 해커톤 1180팀 중 3위 🏆 [DACON](https://dacon.io/competitions/open/236230/codeshare/9959)        
 [2024.05] DACON 저해상도 조류 이미지 분류 AI 경진대회 385팀 중 7위 [DACON](https://dacon.io/competitions/official/236251/codeshare/10441)        
 [2024.06] Kaggle BirdCLEF 2024 Top 6% 🥉      
-[2024.07] Intermediate 자율주행 모빌리티 레이스 1/5 부문 노력상 🏆  
+[2024.07] Intermediate 자율주행 모빌리티 레이스 1/5 부문 노력상 🏆     
 [2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루) 🏆 [Github](https://github.com/be0k/2024_AI_ADD/tree/main)     
-[2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉             
+[2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉 [Kaggle](https://www.kaggle.com/code/seguride/123rd-inference-gemma-2-9b-it-4-bit-with-lora)            
 [2024.08] Kaggle competitions Expert 🟣       
 [2024.08] LG Aimers 5기 온라인해커톤 Private 6th - 본선진출     
-[2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (가 유형) 5th       
-[2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (나 유형) 3rd +  은상(국어원장상) 🏆      
+[2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (가 유형) 5th [Github](https://github.com/be0k/Korean_CCI_2024)      
+[2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (나 유형) 3rd [Github](https://github.com/be0k/Korean_CCI_2024)        
+[2024.09] 2024년 인공지능의 한국어 능력 평가 경진 대회 은상(국어원장상) 🏆           
 
 
 ~ing

@@ -22,11 +22,11 @@
 [2024.08] SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문 후원기업상(포티투마루) 🏆 [Github](https://github.com/be0k/2024_AI_ADD/tree/main)     
 [2024.08] Kaggle LMSYS - Chatbot Arena Human Preference Predictions Top 7% 🥉 [Kaggle](https://www.kaggle.com/code/seguride/123rd-inference-gemma-2-9b-it-4-bit-with-lora)            
 [2024.08] Kaggle competitions Expert 🟣       
-[2024.08] LG Aimers 5기 온라인해커톤 Private 6th - 본선진출     
+[2024.08] LG Aimers 5기 온라인 해커톤 Private 6th - 본선진출     
 [2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (가 유형) 5th [Github](https://github.com/be0k/Korean_CCI_2024)      
 [2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (나 유형) 3rd [Github](https://github.com/be0k/Korean_CCI_2024)        
 [2024.09] 2024년 인공지능의 한국어 능력 평가 경진 대회 은상(국어원장상) 🏆           
-[2024.09] LG Aimers 5기 오프라인 해커톤 3rd       
+[2024.09] LG Aimers 5기 오프라인 해커톤 Private 3rd       
 
 ~ing
 

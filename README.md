@@ -26,14 +26,12 @@
 [2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (가 유형) 5th [Github](https://github.com/be0k/Korean_CCI_2024)      
 [2024.08] 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (나 유형) 3rd [Github](https://github.com/be0k/Korean_CCI_2024)        
 [2024.09] 2024년 인공지능의 한국어 능력 평가 경진 대회 은상(국어원장상) 🏆           
-
+[2024.09] LG Aimers 5기 오프라인 해커톤 3rd       
 
 ~ing
 
-LG Aimers 5기 오프라인해커톤       
 구글 머신러닝 부트캠프 2024     
 2024 대학생 창작 모빌리티 경진대회     
-Kaggle UM - Game-Playing Strength of MCTS Variants
 
 
   <summary><b>Skills 🖥️</b></summary>

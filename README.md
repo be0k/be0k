@@ -30,8 +30,8 @@
 
 ~ing
 
-구글 머신러닝 부트캠프 2024     
-2024 대학생 창작 모빌리티 경진대회     
+
+interspeech2025 accept을 목표로 연구중입니다.     
 
 
   <summary><b>Skills 🖥️</b></summary>

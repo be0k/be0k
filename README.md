@@ -30,8 +30,7 @@
 
 ~ing
 
-
-interspeech2025 accept을 목표로 연구중입니다.     
+interspeech2025 accept을 목표로 연구중입니다.     
 
 
   <summary><b>Skills 🖥️</b></summary>

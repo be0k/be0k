@@ -7,33 +7,33 @@
 <summary><b>Competitions</b></summary>
 <hr>
 
-| Date       | Event                                                                                       |Team| Award/Result                                         | Links                                   |
-|------------|----------------------------------------------------------------------------------------------|-------|-------------------------------------------------------|-----------------------------------------|
-| 2021.10    | 오픈 클라우드 플랫폼 파스타 기반 서비스 개발 및 아이디어 공모전 서비스 개발 부문|Team.Connect| 특별상(NIA원장상) 🏆||
-| 2022.07    | 제6회 UNIST 슈퍼 컴퓨팅 캠프|Team.Connect| 대상(UNIST 총장상) 🏆||
-| 2023.10    | 2023 HL만도 HL클레무브 자율주행 모빌리티 대회 VLF 대학 부문|김준영, 백성열| 우수상(HL 클레무브 대표이사상) 🏆||
-| 2023.10    | 2023 데이터 크리에이터 캠프|Team.TakeOut| 우수성장상(NIA원장상) 🏆| [Github](https://github.com/be0k/2023-data-creator-camp) |
-| 2024.02    | LG Aimers 4기 Online Hackathon|SOLO| Private 844팀 중 1위 - 본선 진출| [Github](https://github.com/be0k/lg-aimers-4th-online) |
-| 2024.04    | LG Aimers 4기 Offline Hackthon|SOLO| Private 34팀 중 5위| [Github](https://github.com/be0k/lg-aimers-4th-offline) |
-| 2024.04    | DACON 코드 유사성 판단 시즌2 AI 경진대회|SOLO| 133팀 중 2위(DACON) 🏆| [Github](https://github.com/be0k/code-similarity), [DACON](https://dacon.io/competitions/official/236228/codeshare/9926) |
-| 2024.04    | DACON 소득 예측 AI 해커톤|SOLO| 1180팀 중 3위(DACON) 🏆| [DACON](https://dacon.io/competitions/open/236230/codeshare/9959) |
-| 2024.05    | DACON 저해상도 조류 이미지 분류 AI 경진대회|SOLO| 385팀 중 7위| [DACON](https://dacon.io/competitions/official/236251/codeshare/10441) |
-| 2024.06    | Kaggle BirdCLEF 2024|SOLO| Top 6% 🥉||
-| 2024.07    | Intermediate 자율주행 모빌리티 레이스 1/5 부문|Team.TakeOut| 노력상(경진대회 조직위원회) 🏆||
-|2024.07|(교내_가천대학교) 2024-1 교외공모전 지원 프로젝트 | Team.TakeOut | 대상 🏆||
-| 2024.08    | SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문|Team.이세계아이돌| 후원기업상(포티투마루) 🏆| [Github](https://github.com/be0k/2024_AI_ADD/tree/main) |
-| 2024.08    | Kaggle LMSYS - Chatbot Arena Human Preference Predictions|SOLO| Top 7% 🥉| [Kaggle](https://www.kaggle.com/code/seguride/123rd-inference-gemma-2-9b-it-4-bit-with-lora) |
-| 2024.08    | Kaggle competitions|| Expert 🟣||
-| 2024.08    | LG Aimers 5기 온라인 해커톤|Team.Bull's Eye| Private 6th - 본선 진출||
-| 2024.08    | 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (가 유형)|Team.고세구| 5th| [Github](https://github.com/be0k/Korean_CCI_2024) |
-| 2024.08    | 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (나 유형)|Team.고세구| 3rd| [Github](https://github.com/be0k/Korean_CCI_2024) |
-| 2024.09    | 2024년 인공지능의 한국어 능력 평가 경진 대회 (발표평가)|Team.고세구| 은상(국어원장상) 🏆||
-| 2024.09    | LG Aimers 5기 오프라인 해커톤|Team.Bull's Eye| Private 3rd||
-| 2024.10    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회|Team.GradientBoostingTree| Private 5th  | [DACON](https://dacon.io/competitions/open/236372/codeshare/12061?page=1&dtype=recent)|
-| 2024.11    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회|Team.GradientBoostingTree| 최우수상(한국외대 경상대학장상) 🏆  | |
-| 2024.11    | 2024년 대학생 창작 모빌리티 경진대회 (무인모빌리티 부문)|Team.GADIS| 장려상(한국교통안전공단 이사장상) 🏆|  |
-| 2024.11    | 2024년 자율주행 인공지능 챌린지 차량용 3D 객체 검출 |Team.TakeOut| 최우수상(과기정통부 장관상) 🏆|  |
-| 2024.11    | 2024년 자율주행 인공지능 챌린지 엣지-인프라 3D 객체 검출 |Team.TakeOut| 최우수상(IITP 원장상)  🏆|  |
+|mark| Date       | Event                                                                                       |Team| Award/Result                                         | Links                                   |
+|-|------------|----------------------------------------------------------------------------------------------|-------|-------------------------------------------------------|-----------------------------------------|
+|1| 2021.10    | 오픈 클라우드 플랫폼 파스타 기반 서비스 개발 및 아이디어 공모전 서비스 개발 부문|Team.Connect| 특별상(NIA원장상) 🏆||
+|2| 2022.07    | 제6회 UNIST 슈퍼 컴퓨팅 캠프|Team.Connect| 대상(UNIST 총장상) 🏆||
+|3| 2023.10    | 2023 HL만도 HL클레무브 자율주행 모빌리티 대회 VLF 대학 부문|김준영, 백성열| 우수상(HL 클레무브 대표이사상) 🏆||
+|4| 2023.10    | 2023 데이터 크리에이터 캠프|Team.TakeOut| 우수성장상(NIA원장상) 🏆| [Github](https://github.com/be0k/2023-data-creator-camp) |
+|| 2024.02    | LG Aimers 4기 Online Hackathon|SOLO| Private 844팀 중 1위 - 본선 진출| [Github](https://github.com/be0k/lg-aimers-4th-online) |
+|| 2024.04    | LG Aimers 4기 Offline Hackthon|SOLO| Private 34팀 중 5위| [Github](https://github.com/be0k/lg-aimers-4th-offline) |
+|5| 2024.04    | DACON 코드 유사성 판단 시즌2 AI 경진대회|SOLO| 133팀 중 2위(DACON) 🏆| [Github](https://github.com/be0k/code-similarity), [DACON](https://dacon.io/competitions/official/236228/codeshare/9926) |
+|6| 2024.04    | DACON 소득 예측 AI 해커톤|SOLO| 1180팀 중 3위(DACON) 🏆| [DACON](https://dacon.io/competitions/open/236230/codeshare/9959) |
+|| 2024.05    | DACON 저해상도 조류 이미지 분류 AI 경진대회|SOLO| 385팀 중 7위| [DACON](https://dacon.io/competitions/official/236251/codeshare/10441) |
+|| 2024.06    | Kaggle BirdCLEF 2024|SOLO| Top 6% 🥉||
+|7| 2024.07    | Intermediate 자율주행 모빌리티 레이스 1/5 부문|Team.TakeOut| 노력상(경진대회 조직위원회) 🏆||
+||2024.07|(교내_가천대학교) 2024-1 교외공모전 지원 프로젝트 | Team.TakeOut | 대상 🏆||
+|8| 2024.08    | SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문|Team.이세계아이돌| 후원기업상(포티투마루) 🏆| [Github](https://github.com/be0k/2024_AI_ADD/tree/main) |
+|| 2024.08    | Kaggle LMSYS - Chatbot Arena Human Preference Predictions|SOLO| Top 7% 🥉| [Kaggle](https://www.kaggle.com/code/seguride/123rd-inference-gemma-2-9b-it-4-bit-with-lora) |
+|| 2024.08    | Kaggle competitions|| Expert 🟣||
+|| 2024.08    | LG Aimers 5기 온라인 해커톤|Team.Bull's Eye| Private 6th - 본선 진출||
+|| 2024.08    | 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (가 유형)|Team.고세구| 5th| [Github](https://github.com/be0k/Korean_CCI_2024) |
+|| 2024.08    | 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (나 유형)|Team.고세구| 3rd| [Github](https://github.com/be0k/Korean_CCI_2024) |
+|9| 2024.09    | 2024년 인공지능의 한국어 능력 평가 경진 대회 (발표평가)|Team.고세구| 은상(국어원장상) 🏆||
+|| 2024.09    | LG Aimers 5기 오프라인 해커톤|Team.Bull's Eye| Private 3rd||
+|| 2024.10    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회|Team.GradientBoostingTree| Private 5th  | [DACON](https://dacon.io/competitions/open/236372/codeshare/12061?page=1&dtype=recent)|
+|10| 2024.11    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회|Team.GradientBoostingTree| 최우수상(한국외대 경상대학장상) 🏆  | |
+|11| 2024.11    | 2024년 대학생 창작 모빌리티 경진대회 (무인모빌리티 부문)|Team.GADIS| 장려상(한국교통안전공단 이사장상) 🏆|  |
+|12| 2024.11    | 2024년 자율주행 인공지능 챌린지 차량용 3D 객체 검출 |Team.TakeOut| 최우수상(과기정통부 장관상) 🏆|  |
+|13| 2024.11    | 2024년 자율주행 인공지능 챌린지 엣지-인프라 3D 객체 검출 |Team.TakeOut| 최우수상(IITP 원장상)  🏆|  |
 
 
 

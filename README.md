@@ -29,8 +29,8 @@
 || 2024.08    | 2024년 인공지능의 한국어 능력 평가 경진 대회 대화 맥락 추론 (나 유형)|Team.고세구| 3rd| [Github](https://github.com/be0k/Korean_CCI_2024) |
 |9| 2024.09    | 2024년 인공지능의 한국어 능력 평가 경진 대회 (발표평가)|Team.고세구| 은상(국어원장상) 🏆||
 || 2024.09    | LG Aimers 5기 오프라인 해커톤|Team.Bull's Eye| Private 3rd||
-|| 2024.10    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회|Team.GradientBoostingTree| Private 5th  | [DACON](https://dacon.io/competitions/open/236372/codeshare/12061?page=1&dtype=recent)|
-|10| 2024.11    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회|Team.GradientBoostingTree| 최우수상(한국외대 경상대학장상) 🏆  | |
+|| 2024.10    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회 예선|Team.GradientBoostingTree| Private 5th  | [DACON](https://dacon.io/competitions/open/236372/codeshare/12061?page=1&dtype=recent)|
+|10| 2024.11    | 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회 본선|Team.GradientBoostingTree| 최우수상(한국외대 경상대학장상) 🏆  | |
 |11| 2024.11    | 2024년 대학생 창작 모빌리티 경진대회 (무인모빌리티 부문)|Team.GADIS| 장려상(한국교통안전공단 이사장상) 🏆|  |
 |12| 2024.11    | 2024년 자율주행 인공지능 챌린지 차량용 3D 객체 검출 |Team.TakeOut| 최우수상(과기정통부 장관상) 🏆|  |
 |13| 2024.11    | 2024년 자율주행 인공지능 챌린지 엣지-인프라 3D 객체 검출 |Team.TakeOut| 최우수상(IITP 원장상)  🏆|  |
